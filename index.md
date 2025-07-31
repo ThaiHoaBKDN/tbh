@@ -4,7 +4,7 @@ title: "Thái Bá Hòa"
 author_profile: true
 ---
 
-Tôi hiện là giảng viên/nghiên cứu viên trong lĩnh vực điều khiển tự động và hệ thống thông minh.  
+Tôi hiện đang nghiên cứu trong lĩnh vực điều khiển tự động và hệ thống thông minh.  
 Tôi quan tâm đến các chủ đề như:
 
 - Quan sát trạng thái hệ phi tuyến
