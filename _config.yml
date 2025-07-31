@@ -20,15 +20,18 @@ repository               : "academicpages/academicpages.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  avatar           : "profile.png"  # Đảm bảo bạn có ảnh này trong thư mục `/images/`
+  name             : "Thái Bá Hòa"
+  bio              : "Giảng viên – Trường Đại học XYZ. Nghiên cứu: điều khiển thông minh, hệ thống phi tuyến, quan sát trạng thái."
+  location         : "Việt Nam"
+  employer         : "Đại học XYZ"  # Nếu có
+  email            : "hoa.tba@example.com"  # Thay bằng email của bạn
+
+  googlescholar    : "https://scholar.google.com/citations?user=YOUR_ID"
+  orcid            : "http://orcid.org/0000-000X-XXXX-XXXX"
+  researchgate     : "https://www.researchgate.net/profile/Thai-Ba-Hoa"
+  github           : "thaihoabkdn"
+  linkedin         : "thaibahoa"  # Nếu có
 
   # Academic websites
   academia         : # URL
